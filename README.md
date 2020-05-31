@@ -12,9 +12,7 @@ they’re also great for trivia games
 saving a set of e-Flashcards.
 2) QuizCardPlayer, a playback engine that can load a
 flashcard set and play it for the user.
-3) QuizCard, a simple class representing card data. We’ll
-walk through the code for the builder and the player, and
-have you make the QuizCard class
+3) QuizCard, a simple class representing card data.
 
 ![](/Quiz%20card%20player.jpg)
 ![](/Quiz%20card%20builder.jpg)
